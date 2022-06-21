@@ -1,4 +1,3 @@
-
 ## Armenian Dolma ( stuffed Grape Leaves with Yogurt sauce )
 
 [Dolma](ScreenshotD.png)
