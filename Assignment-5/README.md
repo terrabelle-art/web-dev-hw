@@ -7,3 +7,21 @@ audio
 video
 
 Lyrics?
+
+body {
+  background-color: powderblue;
+  text-align: center;
+}
+.container {
+  background-color: white;
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+.lyrics p, pre {
+  background-color: grey;
+  color: white;
+  font-size: small;
+  font-family: Arial;
+}
