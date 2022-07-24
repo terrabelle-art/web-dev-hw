@@ -8,7 +8,9 @@ text-align: center
 }
 .main-content p:first-child::first-line {
    color: #E95420;
-}
+ }a:link {
+   color: #79AF33;
+   text-decoration: none;
 
 .two {
    font-family: 'Playfair Display', sans-serif;
