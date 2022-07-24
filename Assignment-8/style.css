@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai');
+
+h2 {
+  font-family: 'Arima Madurai', cursive;
+  font-size: 3em;
+  color: #000;
+  text-align: center;
+  margin: 0.2em;
+}
+
+p {
+  font-family: erif;
+  font-size: 1em;
+  color: #E95420;
+  text-align: ;
+  margin: 0.5em;
+}
+
+.change-01 {
+  text-align: left;
+}
+
+.change-02 {
+  text-align: center;
+}
+
+.change-03 {
+  text-align: right;
+}
+
+.change-04 {
+  text-align: justify;
+}
