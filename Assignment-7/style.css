@@ -3,7 +3,7 @@
     /* Draw a lime green border 2px thick. */
     border-style: solid;
     border-width: 2px;
-    border-color: limegreen;
+    border-color: pink;
     /*Add space between the boarder and its inside elements. */
     padding: 10px;
     /* Color the background dark grey. */
@@ -15,7 +15,7 @@ h1 {
     /* Draw an orange border 2px thick around ONLY the h1 element. */
     border-style: solid;
     border-width: 2px;
-    border-color: orange;
+    border-color: black;
     /* Set a unique background color. */
     background: #f1f1f1;
 }
@@ -24,7 +24,7 @@ h1 {
 p {
     border-style: solid;
     border-width: 2px;
-    border-color: gold;
+    border-color: black;
     background: #f1f1f1;
 }
 
@@ -32,12 +32,12 @@ p {
 strong, em {
     border-style: solid;
     border-width: 2px;
-    border-color: tomato;
+    border-color: black;
 }
 
 /* Select ONLY the emphasized elements. */
 em {
-    color: tomato;
+    color: black;
 }
 
 hr {
