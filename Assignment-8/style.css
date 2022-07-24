@@ -1,3 +1,15 @@
+
+text-align: center
+
+.main-content p:first-child::first-letter {
+   font-family: 'Kumar One Outline', cursive;
+   font-size: 2.5em;
+   font-weight: bold;
+}
+.main-content p:first-child::first-line {
+   color: #E95420;
+}
+
 .two {
    font-family: 'Playfair Display', sans-serif;
    font-weight: 700;
