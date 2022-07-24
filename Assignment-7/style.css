@@ -9,7 +9,10 @@
     /* Color the background dark grey. */
     background: #373E42;
 }
-
+h1, h2, p, i {
+   font-family: "Source Sans Pro";
+   text-align: center;
+   font-weight: normal;
 /* Select all h1 elements. */
 h1 {
     /* Draw an orange border 2px thick around ONLY the h1 element. */
