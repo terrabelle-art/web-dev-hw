@@ -1,0 +1,33 @@
+
+.main-container {
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: pink;
+
+    padding: 10px;
+
+    background: white;
+
+  }
+  h1, h2, p, i {
+     font-family: "Source Sans Pro";
+     text-align: left;
+     font-weight: bold;
+
+  h1 {
+
+      border-style: solid;
+      border-width: 2px;
+      border-color: black;
+
+      background: #f1f1f1;
+  }
+
+
+  p {
+      border-style: solid;
+      border-width: 2px;
+      border-color: black;
+      background: #f1f1f1;
+  }
