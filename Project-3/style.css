@@ -11,9 +11,14 @@
 
   }
   h1, h2, p, i {
-     font-family: "Source Sans Pro";
+     font-family: "Lobster";
      text-align: left;
      font-weight: bold;
+
+  }  p {
+        font-family: "Source Sans Pro";
+        text-align: center;
+        font-weight: normal;
 
   h1 {
 
