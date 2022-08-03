@@ -10,6 +10,8 @@
     background: white;
 
   }
+
+
   .secondary-container {
 
       border-style: solid;
@@ -21,16 +23,22 @@
       background: pink;
 
     }
-  h1, h2, p, i {
+
+
+  h1, h2, i {
      font-family: "Lobster";
      text-align: left;
      font-weight: bold;
 
-  }  p2 {
+  }
+
+   p {
         font-family: "Source Sans Pro";
         text-align: center;
         font-weight: normal;
       }
+
+
 
   h1 {
 
@@ -42,7 +50,7 @@
   }
 
 
-  p {
+  p, h2,i {
       border-style: solid;
       border-width: 2px;
       border-color: black;
