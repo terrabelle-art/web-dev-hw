@@ -23,6 +23,12 @@
       padding: 5px;
 
       background: pink;
+    }
+
+      .inner-box {
+        width: 75px;
+          height: 30px;
+          background-color: white
 
     }
     .third-container {
