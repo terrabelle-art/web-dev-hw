@@ -2,7 +2,7 @@
 .main-container {
 
     border-style: solid;
-    border-width: 2px;
+    border-width: 3px;
     border-color: pink;
 
     padding: 10px;
@@ -25,14 +25,14 @@
     }
 
 
-  h1, h2, i {
+  h1, h2,, p, i {
      font-family: "Lobster";
      text-align: left;
      font-weight: bold;
 
   }
 
-   p {
+   p2 {
         font-family: "Source Sans Pro";
         text-align: center;
         font-weight: normal;
@@ -40,17 +40,7 @@
 
 
 
-  h1 {
-
-      border-style: solid;
-      border-width: 2px;
-      border-color: black;
-
-      background: #f1f1f1;
-  }
-
-
-  p, h2,i {
+  p, h1,h2,i {
       border-style: solid;
       border-width: 2px;
       border-color: black;
